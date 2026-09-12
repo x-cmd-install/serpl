@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2355829,
       "digest": "sha256:9fbca6d16fbcb625443d448141ff29e85fe9c6b178c4efe9b593e7cc7846ad6f",
-      "download_count": 157,
+      "download_count": 158,
       "created_at": "2026-05-31T09:03:10Z",
       "updated_at": "2026-05-31T09:03:11Z",
       "browser_download_url": "https://github.com/yassinebridi/serpl/releases/download/0.3.6/serpl-0.3.6-linux-x86_64.tar.gz"
