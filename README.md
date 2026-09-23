@@ -4,7 +4,7 @@
 
 A simple terminal UI for search and replace, ala VS Code.
 
-[![x-cmd/install — serpl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/serpl.svg)](https://x-cmd.com/install/serpl)
+[![x-cmd/install — serpl Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/serpl.svg)](https://x-cmd.com/install/serpl)
 
 ## Install
 
@@ -45,12 +45,12 @@ Total: **4,775** lines of code across **46** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-03-26 | 2 | 1 | 1 | 0 | 2 | 3 |
-| 360d | 2025-09-27 | 2 | 1 | 1 | 0 | 2 | 3 |
-| last720d | 2024-10-02 | 3 | 4 | 1 | 0 | 10 | 21 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-27 | 2 | 1 | 1 | 0 | 2 | 3 |
+| 360d | 2025-09-28 | 2 | 1 | 1 | 0 | 2 | 3 |
+| last720d | 2024-10-03 | 3 | 4 | 1 | 0 | 10 | 21 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for serpl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:43:28Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:52:17Z._
