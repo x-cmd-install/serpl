@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2355829,
       "digest": "sha256:9fbca6d16fbcb625443d448141ff29e85fe9c6b178c4efe9b593e7cc7846ad6f",
-      "download_count": 174,
+      "download_count": 176,
       "created_at": "2026-05-31T09:03:10Z",
       "updated_at": "2026-05-31T09:03:11Z",
       "browser_download_url": "https://github.com/yassinebridi/serpl/releases/download/0.3.6/serpl-0.3.6-linux-x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2134329,
       "digest": "sha256:965c64ab1a56aae7fc0fa3d26904f3c55cea52f0ab5740ce26df682b565688dc",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-05-31T09:03:58Z",
       "updated_at": "2026-05-31T09:03:58Z",
       "browser_download_url": "https://github.com/yassinebridi/serpl/releases/download/0.3.6/serpl-0.3.6-macos-arm64.tar.gz"
