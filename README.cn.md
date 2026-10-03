@@ -14,13 +14,13 @@ x install serpl
 
 ## 代码洞察
 
-合计: **4,775** 行代码（覆盖前 5 种语言、共 **46** 个文件）。
+合计: **5,164** 行代码（覆盖前 5 种语言、共 **47** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 4,714 | 59 | 629 | 43 |
+| Rust | 5,103 | 60 | 687 | 44 |
 | Toml | 61 | 0 | 4 | 2 |
-| Markdown | 0 | 196 | 67 | 1 |
+| Markdown | 0 | 211 | 69 | 1 |
 
 ## 源代码
 
@@ -29,45 +29,45 @@ x install serpl
 
 ## 发布
 
-- **最新版本**: `0.3.6` (2026-05-31)
-- **最近提交**: 2026-05-31
+- **最新版本**: `0.3.10` (2026-10-02)
+- **最近提交**: 2026-10-02
 - **Release 含资产**: 12 个
 
 ## 流行度
 
-- **Star**: 857 · **Fork**: 14 · **开放 issue**: 30 · **贡献者**: 8
+- **Star**: 857 · **Fork**: 14 · **开放 issue**: 30 · **贡献者**: 9
 
 ## 累计统计
 
-- **发布数**: 29 · **已合并 PR**: 16 · **开放 PR**: 2 · **已关闭 issue**: 9 · **开放 issue**: 21 · **提交数**: 143
+- **发布数**: 33 · **已合并 PR**: 20 · **开放 PR**: 1 · **已关闭 issue**: 13 · **开放 issue**: 17 · **提交数**: 163
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-03 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-07-04 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-04-05 | 2 | 0 | 2 | 0 | 2 | 2 |
-| 360d | 2025-10-07 | 2 | 1 | 2 | 0 | 2 | 3 |
-| last720d | 2024-10-12 | 3 | 4 | 2 | 0 | 10 | 21 |
+| 30d | 2026-09-03 | 4 | 4 | 0 | 0 | 0 | 12 |
+| last60d | 2026-08-04 | 4 | 4 | 0 | 0 | 1 | 12 |
+| 90d | 2026-07-05 | 4 | 4 | 0 | 0 | 1 | 12 |
+| last180d | 2026-04-06 | 6 | 4 | 1 | 0 | 2 | 14 |
+| 360d | 2025-10-08 | 6 | 5 | 1 | 0 | 2 | 15 |
+| last720d | 2024-10-13 | 7 | 8 | 1 | 1 | 9 | 41 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [serpl-0.3.6-linux-arm64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.6/serpl-0.3.6-linux-arm64.sha256) | 97 B | `native/linux/arm64` |
-| [serpl-0.3.6-linux-arm64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.6/serpl-0.3.6-linux-arm64.tar.gz) | 2.1 MiB | `native/linux/arm64` |
-| [serpl-0.3.6-linux-i686.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.6/serpl-0.3.6-linux-i686.sha256) | 96 B | `native/linux/x86` |
-| [serpl-0.3.6-linux-i686.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.6/serpl-0.3.6-linux-i686.tar.gz) | 2.4 MiB | `native/linux/x86` |
-| [serpl-0.3.6-linux-x86_64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.6/serpl-0.3.6-linux-x86_64.sha256) | 98 B | `native/linux/x64` |
-| [serpl-0.3.6-linux-x86_64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.6/serpl-0.3.6-linux-x86_64.tar.gz) | 2.2 MiB | `native/linux/x64` |
-| [serpl-0.3.6-macos-arm64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.6/serpl-0.3.6-macos-arm64.sha256) | 97 B | `native/darwin/arm64` |
-| [serpl-0.3.6-macos-arm64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.6/serpl-0.3.6-macos-arm64.tar.gz) | 2.0 MiB | `native/darwin/arm64` |
-| [serpl-0.3.6-macos-x86_64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.6/serpl-0.3.6-macos-x86_64.sha256) | 98 B | `native/darwin/x64` |
-| [serpl-0.3.6-macos-x86_64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.6/serpl-0.3.6-macos-x86_64.tar.gz) | 2.1 MiB | `native/darwin/x64` |
-| [serpl-0.3.6-windows-x86_64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.6/serpl-0.3.6-windows-x86_64.sha256) | 65 B | `native/win/x64` |
-| [serpl-0.3.6-windows-x86_64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.6/serpl-0.3.6-windows-x86_64.tar.gz) | 2.0 MiB | `native/win/x64` |
+| [serpl-0.3.10-linux-arm64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-arm64.sha256) | 98 B | `native/linux/arm64` |
+| [serpl-0.3.10-linux-arm64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-arm64.tar.gz) | 2.1 MiB | `native/linux/arm64` |
+| [serpl-0.3.10-linux-i686.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-i686.sha256) | 97 B | `native/linux/x86` |
+| [serpl-0.3.10-linux-i686.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-i686.tar.gz) | 2.5 MiB | `native/linux/x86` |
+| [serpl-0.3.10-linux-x86_64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-x86_64.sha256) | 99 B | `native/linux/x64` |
+| [serpl-0.3.10-linux-x86_64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-x86_64.tar.gz) | 2.3 MiB | `native/linux/x64` |
+| [serpl-0.3.10-macos-arm64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-macos-arm64.sha256) | 98 B | `native/darwin/arm64` |
+| [serpl-0.3.10-macos-arm64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-macos-arm64.tar.gz) | 2.1 MiB | `native/darwin/arm64` |
+| [serpl-0.3.10-macos-x86_64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-macos-x86_64.sha256) | 99 B | `native/darwin/x64` |
+| [serpl-0.3.10-macos-x86_64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-macos-x86_64.tar.gz) | 2.2 MiB | `native/darwin/x64` |
+| [serpl-0.3.10-windows-x86_64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-windows-x86_64.sha256) | 65 B | `native/win/x64` |
+| [serpl-0.3.10-windows-x86_64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-windows-x86_64.tar.gz) | 2.0 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -78,4 +78,4 @@ serpl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261002.yml` · 2026-10-02T06:49:58Z._
+_数据快照: `data/card/261003.yml` · 2026-10-03T06:37:58Z._
