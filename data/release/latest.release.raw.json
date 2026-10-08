@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 98,
       "digest": "sha256:fbbd23199f9b8cb100db38b20107f9d3c6b0f60c57d60aef002b956d528ecd9d",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-02T21:27:20Z",
       "updated_at": "2026-10-02T21:27:20Z",
       "browser_download_url": "https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-arm64.sha256"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2204133,
       "digest": "sha256:4479f1af9db5144e2d5f1247c2e20ab268873471639795236c25a1c0627adfb9",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-10-02T21:27:20Z",
       "updated_at": "2026-10-02T21:27:20Z",
       "browser_download_url": "https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:36bb1c4e0da38a9e044edcd14e54001005494acc1cd749459064d71a9278f3b3",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-02T21:27:04Z",
       "updated_at": "2026-10-02T21:27:04Z",
       "browser_download_url": "https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-i686.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2570464,
       "digest": "sha256:97f6f0b4053d8f4f4a8c9b07d7e94130f14624d96d0ff9a6c945082fa6aaa868",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-10-02T21:27:04Z",
       "updated_at": "2026-10-02T21:27:04Z",
       "browser_download_url": "https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-i686.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:a41cd16e85a260ce6c186f946b43af1041710170e35a19ed175f37eada47be1c",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-02T21:26:05Z",
       "updated_at": "2026-10-02T21:26:05Z",
       "browser_download_url": "https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-x86_64.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2396020,
       "digest": "sha256:e0c3018de7f516513563c697900236d593cc4c5a2d28ad88e8c386731c8e0d51",
-      "download_count": 28,
+      "download_count": 32,
       "created_at": "2026-10-02T21:26:05Z",
       "updated_at": "2026-10-02T21:26:05Z",
       "browser_download_url": "https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2162712,
       "digest": "sha256:ae60358f4a18051070f043d608240b4eba40827f03b233d2cde6d0cfaff7c747",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-10-02T21:27:07Z",
       "updated_at": "2026-10-02T21:27:07Z",
       "browser_download_url": "https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-macos-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2277796,
       "digest": "sha256:fba7ce0c2d11db194d18e69803188decb4a71b2d234d6a1c05ef6253cd6246ad",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-10-02T21:26:16Z",
       "updated_at": "2026-10-02T21:26:16Z",
       "browser_download_url": "https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-macos-x86_64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 2139820,
       "digest": "sha256:22f7ad7aa923e24c6bdfa325e66ab7333c945eaee7913c5f7ecddd7a107718f3",
-      "download_count": 16,
+      "download_count": 18,
       "created_at": "2026-10-02T21:27:58Z",
       "updated_at": "2026-10-02T21:27:58Z",
       "browser_download_url": "https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-windows-x86_64.tar.gz"
