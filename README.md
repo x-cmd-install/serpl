@@ -35,7 +35,7 @@ Total: **5,164** lines of code across **47** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 861 · **Forks**: 14 · **Open issues**: 30 · **Contributors**: 9
+- **Stars**: 860 · **Forks**: 14 · **Open issues**: 30 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **5,164** lines of code across **47** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 4 | 4 | 0 | 0 | 0 | 12 |
-| last60d | 2026-08-09 | 4 | 4 | 0 | 0 | 1 | 12 |
-| 90d | 2026-07-10 | 4 | 4 | 0 | 0 | 1 | 12 |
-| last180d | 2026-04-11 | 6 | 4 | 1 | 0 | 2 | 14 |
-| 360d | 2025-10-13 | 6 | 5 | 1 | 0 | 2 | 15 |
-| last720d | 2024-10-18 | 7 | 8 | 1 | 1 | 9 | 41 |
+| 30d | 2026-09-09 | 4 | 4 | 0 | 0 | 0 | 12 |
+| last60d | 2026-08-10 | 4 | 4 | 0 | 0 | 1 | 12 |
+| 90d | 2026-07-11 | 4 | 4 | 0 | 0 | 1 | 12 |
+| last180d | 2026-04-12 | 6 | 4 | 1 | 0 | 2 | 14 |
+| 360d | 2025-10-14 | 6 | 5 | 1 | 0 | 2 | 15 |
+| last720d | 2024-10-19 | 7 | 8 | 1 | 1 | 9 | 41 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for serpl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:19:15Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:17:15Z._
