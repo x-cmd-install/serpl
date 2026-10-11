@@ -14,11 +14,11 @@ x install serpl
 
 ## Code insight
 
-Total: **5,164** lines of code across **47** files in the top 5 languages.
+Total: **5,184** lines of code across **47** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 5,103 | 60 | 687 | 44 |
+| Rust | 5,123 | 60 | 689 | 44 |
 | Toml | 61 | 0 | 4 | 2 |
 | Markdown | 0 | 211 | 69 | 1 |
 
@@ -29,8 +29,8 @@ Total: **5,164** lines of code across **47** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.3.10` (2026-10-02)
-- **Last commit**: 2026-10-02
+- **Latest**: `0.3.11` (2026-10-10)
+- **Last commit**: 2026-10-10
 - **Assets in release**: 12
 
 ## Popularity
@@ -39,35 +39,35 @@ Total: **5,164** lines of code across **47** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 20 · **Open PRs**: 1 · **Closed issues**: 13 · **Open issues**: 17 · **Commits**: 163
+- **Releases**: 34 · **Merged PRs**: 21 · **Open PRs**: 1 · **Closed issues**: 13 · **Open issues**: 17 · **Commits**: 166
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 4 | 4 | 0 | 0 | 0 | 12 |
-| last60d | 2026-08-11 | 4 | 4 | 0 | 0 | 1 | 12 |
-| 90d | 2026-07-12 | 4 | 4 | 0 | 0 | 1 | 12 |
-| last180d | 2026-04-13 | 6 | 4 | 1 | 0 | 2 | 14 |
-| 360d | 2025-10-15 | 6 | 5 | 1 | 0 | 2 | 15 |
-| last720d | 2024-10-20 | 7 | 8 | 1 | 1 | 9 | 41 |
+| 30d | 2026-09-11 | 5 | 5 | 0 | 0 | 0 | 13 |
+| last60d | 2026-08-12 | 5 | 5 | 0 | 0 | 1 | 13 |
+| 90d | 2026-07-13 | 5 | 5 | 0 | 0 | 1 | 13 |
+| last180d | 2026-04-14 | 7 | 5 | 1 | 0 | 2 | 15 |
+| 360d | 2025-10-16 | 7 | 6 | 1 | 0 | 2 | 16 |
+| last720d | 2024-10-21 | 8 | 9 | 1 | 1 | 9 | 44 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [serpl-0.3.10-linux-arm64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-arm64.sha256) | 98 B | `native/linux/arm64` |
-| [serpl-0.3.10-linux-arm64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-arm64.tar.gz) | 2.1 MiB | `native/linux/arm64` |
-| [serpl-0.3.10-linux-i686.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-i686.sha256) | 97 B | `native/linux/x86` |
-| [serpl-0.3.10-linux-i686.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-i686.tar.gz) | 2.5 MiB | `native/linux/x86` |
-| [serpl-0.3.10-linux-x86_64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-x86_64.sha256) | 99 B | `native/linux/x64` |
-| [serpl-0.3.10-linux-x86_64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-linux-x86_64.tar.gz) | 2.3 MiB | `native/linux/x64` |
-| [serpl-0.3.10-macos-arm64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-macos-arm64.sha256) | 98 B | `native/darwin/arm64` |
-| [serpl-0.3.10-macos-arm64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-macos-arm64.tar.gz) | 2.1 MiB | `native/darwin/arm64` |
-| [serpl-0.3.10-macos-x86_64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-macos-x86_64.sha256) | 99 B | `native/darwin/x64` |
-| [serpl-0.3.10-macos-x86_64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-macos-x86_64.tar.gz) | 2.2 MiB | `native/darwin/x64` |
-| [serpl-0.3.10-windows-x86_64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-windows-x86_64.sha256) | 65 B | `native/win/x64` |
-| [serpl-0.3.10-windows-x86_64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.10/serpl-0.3.10-windows-x86_64.tar.gz) | 2.0 MiB | `native/win/x64` |
+| [serpl-0.3.11-linux-arm64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-linux-arm64.sha256) | 98 B | `native/linux/arm64` |
+| [serpl-0.3.11-linux-arm64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-linux-arm64.tar.gz) | 2.1 MiB | `native/linux/arm64` |
+| [serpl-0.3.11-linux-i686.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-linux-i686.sha256) | 97 B | `native/linux/x86` |
+| [serpl-0.3.11-linux-i686.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-linux-i686.tar.gz) | 2.5 MiB | `native/linux/x86` |
+| [serpl-0.3.11-linux-x86_64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-linux-x86_64.sha256) | 99 B | `native/linux/x64` |
+| [serpl-0.3.11-linux-x86_64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-linux-x86_64.tar.gz) | 2.3 MiB | `native/linux/x64` |
+| [serpl-0.3.11-macos-arm64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-macos-arm64.sha256) | 98 B | `native/darwin/arm64` |
+| [serpl-0.3.11-macos-arm64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-macos-arm64.tar.gz) | 2.1 MiB | `native/darwin/arm64` |
+| [serpl-0.3.11-macos-x86_64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-macos-x86_64.sha256) | 99 B | `native/darwin/x64` |
+| [serpl-0.3.11-macos-x86_64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-macos-x86_64.tar.gz) | 2.2 MiB | `native/darwin/x64` |
+| [serpl-0.3.11-windows-x86_64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-windows-x86_64.sha256) | 65 B | `native/win/x64` |
+| [serpl-0.3.11-windows-x86_64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-windows-x86_64.tar.gz) | 2.1 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -78,4 +78,4 @@ Install metadata for serpl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:54:36Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:52:34Z._
