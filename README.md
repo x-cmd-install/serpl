@@ -45,12 +45,12 @@ Total: **5,184** lines of code across **47** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 5 | 5 | 0 | 0 | 0 | 13 |
-| last60d | 2026-08-13 | 5 | 5 | 0 | 0 | 1 | 13 |
-| 90d | 2026-07-14 | 5 | 5 | 0 | 0 | 1 | 13 |
-| last180d | 2026-04-15 | 7 | 5 | 1 | 0 | 2 | 15 |
-| 360d | 2025-10-17 | 7 | 6 | 1 | 0 | 2 | 16 |
-| last720d | 2024-10-22 | 8 | 9 | 1 | 1 | 9 | 44 |
+| 30d | 2026-09-13 | 5 | 5 | 0 | 0 | 0 | 13 |
+| last60d | 2026-08-14 | 5 | 5 | 0 | 0 | 1 | 13 |
+| 90d | 2026-07-15 | 5 | 5 | 0 | 0 | 1 | 13 |
+| last180d | 2026-04-16 | 7 | 5 | 1 | 0 | 2 | 15 |
+| 360d | 2025-10-18 | 7 | 6 | 1 | 0 | 2 | 16 |
+| last720d | 2024-10-23 | 8 | 9 | 1 | 1 | 9 | 44 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for serpl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:17:31Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:08:07Z._
