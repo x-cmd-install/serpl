@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2402473,
       "digest": "sha256:244a8756b63e169f67db23de444c0536b087520bfd6ddb240985ba59b9bd0564",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-10-10T22:05:26Z",
       "updated_at": "2026-10-10T22:05:27Z",
       "browser_download_url": "https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-linux-x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2165739,
       "digest": "sha256:c59e0e7d74f664be7dc41e0fb28574440fd908026a973e404632b95302b28117",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-10T22:06:27Z",
       "updated_at": "2026-10-10T22:06:28Z",
       "browser_download_url": "https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-macos-arm64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 2150967,
       "digest": "sha256:1d46b8f5a7dfeab72f012286b61c0051d03aa835ce694f9f19a423e98c0ae230",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-10-10T22:07:41Z",
       "updated_at": "2026-10-10T22:07:42Z",
       "browser_download_url": "https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-windows-x86_64.tar.gz"
@@ -471,5 +471,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/yassinebridi/serpl/tarball/0.3.11",
   "zipball_url": "https://api.github.com/repos/yassinebridi/serpl/zipball/0.3.11",
-  "body": ""
+  "body": "",
+  "reactions": {
+    "url": "https://api.github.com/repos/yassinebridi/serpl/releases/409233620/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 1,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
