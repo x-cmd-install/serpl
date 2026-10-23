@@ -39,18 +39,18 @@ Total: **5,184** lines of code across **47** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 21 · **Open PRs**: 1 · **Closed issues**: 13 · **Open issues**: 17 · **Commits**: 166
+- **Releases**: 34 · **Merged PRs**: 21 · **Open PRs**: 2 · **Closed issues**: 13 · **Open issues**: 17 · **Commits**: 166
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 5 | 5 | 0 | 0 | 0 | 10 |
-| last60d | 2026-08-23 | 5 | 5 | 0 | 0 | 1 | 13 |
-| 90d | 2026-07-24 | 5 | 5 | 0 | 0 | 1 | 13 |
-| last180d | 2026-04-25 | 7 | 5 | 1 | 0 | 2 | 15 |
-| 360d | 2025-10-27 | 7 | 6 | 1 | 0 | 2 | 16 |
-| last720d | 2024-11-01 | 8 | 9 | 1 | 1 | 9 | 44 |
+| 30d | 2026-09-23 | 5 | 5 | 1 | 0 | 0 | 10 |
+| last60d | 2026-08-24 | 5 | 5 | 1 | 0 | 1 | 13 |
+| 90d | 2026-07-25 | 5 | 5 | 1 | 0 | 1 | 13 |
+| last180d | 2026-04-26 | 7 | 5 | 2 | 0 | 2 | 15 |
+| 360d | 2025-10-28 | 7 | 6 | 2 | 0 | 2 | 16 |
+| last720d | 2024-11-02 | 8 | 9 | 2 | 1 | 9 | 44 |
 
 ## Release assets
 
@@ -69,6 +69,16 @@ Total: **5,184** lines of code across **47** files in the top 5 languages.
 | [serpl-0.3.11-windows-x86_64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-windows-x86_64.sha256) | 65 B | `native/win/x64` |
 | [serpl-0.3.11-windows-x86_64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-windows-x86_64.tar.gz) | 2.1 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/serpl). **4** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.3.11` | ✅ latest |
+| Homebrew | `0.3.11` | ✅ latest |
+| Nix unstable | `0.3.10` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for serpl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `serpl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -78,4 +88,4 @@ Install metadata for serpl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T06:04:54Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:07:46Z._
