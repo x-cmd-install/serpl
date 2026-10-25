@@ -1,14 +1,3 @@
-- repo: nix_stable_25_11
-  srcname: serpl
-  visiblename: serpl
-  version: 0.3.4
-  origversion: null
-  status: outdated
-  summary: Simple terminal UI for search and replace, ala VS Code
-  maintainers:
-    - raf@notashelf.dev
-  licenses:
-    - MIT
 - repo: altsisyphus
   srcname: serpl
   binnames:
@@ -112,6 +101,17 @@
     - raf@notashelf.dev
   licenses:
     - MIT
+- repo: nix_stable_25_11
+  srcname: serpl
+  visiblename: serpl
+  version: 0.3.4
+  origversion: null
+  status: outdated
+  summary: Simple terminal UI for search and replace, ala VS Code
+  maintainers:
+    - raf@notashelf.dev
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: serpl
   visiblename: serpl
@@ -126,9 +126,9 @@
 - repo: nix_unstable
   srcname: serpl
   visiblename: serpl
-  version: 0.3.10
+  version: 0.3.11
   origversion: null
-  status: outdated
+  status: newest
   summary: Simple terminal UI for search and replace, ala VS Code
   maintainers:
     - raf@notashelf.dev
