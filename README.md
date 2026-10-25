@@ -45,12 +45,12 @@ Total: **5,184** lines of code across **47** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 5 | 4 | 1 | 0 | 0 | 10 |
-| last60d | 2026-08-25 | 5 | 5 | 1 | 0 | 1 | 13 |
-| 90d | 2026-07-26 | 5 | 5 | 1 | 0 | 1 | 13 |
-| last180d | 2026-04-27 | 7 | 5 | 2 | 0 | 2 | 15 |
-| 360d | 2025-10-29 | 7 | 6 | 2 | 0 | 2 | 16 |
-| last720d | 2024-11-03 | 8 | 9 | 2 | 1 | 9 | 44 |
+| 30d | 2026-09-25 | 5 | 4 | 1 | 0 | 0 | 10 |
+| last60d | 2026-08-26 | 5 | 5 | 1 | 0 | 1 | 13 |
+| 90d | 2026-07-27 | 5 | 5 | 1 | 0 | 1 | 13 |
+| last180d | 2026-04-28 | 7 | 5 | 2 | 0 | 2 | 15 |
+| 360d | 2025-10-30 | 7 | 6 | 2 | 0 | 2 | 16 |
+| last720d | 2024-11-04 | 8 | 9 | 2 | 1 | 9 | 44 |
 
 ## Release assets
 
@@ -71,13 +71,13 @@ Total: **5,184** lines of code across **47** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **13** distros on [repology.org](https://repology.org/project/serpl). **4** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **13** distros on [repology.org](https://repology.org/project/serpl). **5** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.3.11` | ✅ latest |
 | Homebrew | `0.3.11` | ✅ latest |
-| Nix unstable | `0.3.10` | ⚠️ outdated |
+| Nix unstable | `0.3.11` | ✅ latest |
 
 ## Improve this data
 
@@ -88,4 +88,4 @@ Install metadata for serpl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:44:36Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:52:24Z._
