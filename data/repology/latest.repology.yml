@@ -46,28 +46,6 @@
     - MIT
   categories:
     - devel
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: serpl
-  binname: serpl
-  visiblename: serpl
-  version: 0.3.6
-  origversion: 0.3.6-1
-  status: outdated
-  summary: A simple TUI for search and replace, ala VS Code
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: serpl
-  binname: serpl
-  visiblename: serpl
-  version: 0.3.10
-  origversion: 0.3.10-1
-  status: outdated
-  summary: A simple TUI for search and replace, ala VS Code
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: serpl
