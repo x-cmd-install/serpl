@@ -45,12 +45,12 @@ Total: **5,184** lines of code across **47** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 5 | 5 | 2 | 0 | 0 | 12 |
-| 90d | 2026-08-18 | 5 | 5 | 2 | 0 | 1 | 13 |
-| last180d | 2026-05-20 | 6 | 5 | 3 | 0 | 2 | 13 |
-| 360d | 2025-11-21 | 7 | 6 | 3 | 0 | 2 | 16 |
-| last720d | 2024-11-26 | 8 | 9 | 3 | 1 | 9 | 44 |
+| 30d | 2026-10-18 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 5 | 5 | 2 | 0 | 0 | 12 |
+| 90d | 2026-08-19 | 5 | 5 | 2 | 0 | 1 | 13 |
+| last180d | 2026-05-21 | 6 | 5 | 3 | 0 | 2 | 13 |
+| 360d | 2025-11-22 | 7 | 6 | 3 | 0 | 2 | 16 |
+| last720d | 2024-11-27 | 8 | 9 | 3 | 1 | 9 | 44 |
 
 ## Release assets
 
@@ -69,16 +69,6 @@ Total: **5,184** lines of code across **47** files in the top 5 languages.
 | [serpl-0.3.11-windows-x86_64.sha256](https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-windows-x86_64.sha256) | 65 B | `native/win/x64` |
 | [serpl-0.3.11-windows-x86_64.tar.gz](https://github.com/yassinebridi/serpl/releases/download/0.3.11/serpl-0.3.11-windows-x86_64.tar.gz) | 2.1 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **13** distros on [repology.org](https://repology.org/project/serpl). **6** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.3.11` | ✅ latest |
-| Homebrew | `0.3.11` | ✅ latest |
-| Nix unstable | `0.3.11` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for serpl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `serpl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +78,4 @@ Install metadata for serpl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:46:21Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:59:01Z._
