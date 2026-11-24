@@ -1,14 +1,3 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: serpl
-  binname: serpl
-  visiblename: serpl
-  version: 0.3.11
-  origversion: 0.3.11-1
-  status: newest
-  summary: A simple TUI for search and replace, ala VS Code
-  licenses:
-    - MIT
 - repo: altsisyphus
   srcname: serpl
   binnames:
@@ -43,17 +32,6 @@
   origversion: null
   status: newest
   summary: Simple terminal UI for search and replace
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: serpl
-  binname: serpl
-  visiblename: serpl
-  version: 0.3.11
-  origversion: 0.3.11-1
-  status: newest
-  summary: A simple TUI for search and replace, ala VS Code
-  licenses:
-    - MIT
 - repo: macports
   srcname: devel/serpl
   binname: serpl
@@ -73,9 +51,31 @@
   srcname: serpl
   binname: serpl
   visiblename: serpl
-  version: 0.3.10
-  origversion: 0.3.10-1
-  status: outdated
+  version: 0.3.11
+  origversion: 0.3.11-1
+  status: newest
+  summary: A simple TUI for search and replace, ala VS Code
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: serpl
+  binname: serpl
+  visiblename: serpl
+  version: 0.3.11
+  origversion: 0.3.11-1
+  status: newest
+  summary: A simple TUI for search and replace, ala VS Code
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: serpl
+  binname: serpl
+  visiblename: serpl
+  version: 0.3.11
+  origversion: 0.3.11-1
+  status: newest
   summary: A simple TUI for search and replace, ala VS Code
   licenses:
     - MIT
